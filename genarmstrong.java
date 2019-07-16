@@ -4,11 +4,11 @@ class a
 public static void main(String [] args)
 {
 int i;
-int count=0;
 System.out.println("armstrong no are");
 for(i=1;i<1000;i++)
 {
 	double r=0;
+	int count=0;
 	int p=i;
 	int d=i;
 	while(p>0)
